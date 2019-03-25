@@ -9,10 +9,13 @@ This project was to answer the question
   "Does the number of violent crimes rises or fall depending on the number of police officers in United States?"
 
 The data that I gathered is the yearly count for the following:
+
   a. Population
+  
   b. Violent Crimes
+  
   c. Police Officers
-    
+      
 1. This project is ran using the following steps:
 
   a.  download/create the two csv files
@@ -21,7 +24,7 @@ The data that I gathered is the yearly count for the following:
     
     - and the number of police officers from another location
     
-  b.  create a database if it is not there or connect to the database if it is already created.
+  b.  create a database if it is not there or connect to the database if it is already created.   The name of the database is violentcrimes.db.   It will be created in the same folder where the three files are stored listed below.
   
   c.  import the data from csv file to the table in the sqlite database
   
