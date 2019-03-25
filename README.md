@@ -8,7 +8,7 @@ Population of US over the years and number of crimes compared to number of polic
 This project was to answer the question 
   "Does the number of violent crimes rises or fall depending on the number of police officers in United States?"
 
-The data that I gathered is the yearly count for the following:
+## The data that I gathered is the yearly count for the following:
 
   a. Population
   
@@ -16,7 +16,7 @@ The data that I gathered is the yearly count for the following:
   
   c. Police Officers
       
-1. This project is ran using the following steps:
+## 1. This project is ran using the following steps:
 
   a.  download/create the two csv files
   
@@ -38,7 +38,7 @@ The data that I gathered is the yearly count for the following:
   
   f.  used matplotlib to graph my data
   
-2. You will need the following modules to run the program
+## 2. You will need the following modules to run the program
 
   a. sqlite3
   
@@ -48,7 +48,7 @@ The data that I gathered is the yearly count for the following:
   
   d. panda 
 
-3.   make sure you have the following files in the same folder
+## 3.   make sure you have the following files in the same folder
 
   a.  yearlycrime.ipynb
 
