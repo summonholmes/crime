@@ -33,9 +33,13 @@ This project is ran using the following steps:
   
 You will need the following modules to run the program
   a. sqlite3
+  
   b. csv
+  
   c. matplotlib.pyplot
+  
   d. panda 
+  
   
   
 References:
