@@ -1,4 +1,7 @@
-# crime
+# Orris J. Disney II
+# Python/SQL project for spring 2019
+
+# crime and police report
 
 Population of US over the years and number of crimes compared to number of police officers
 
@@ -27,6 +30,12 @@ This project is ran using the following steps:
   e.  created a query that linked between the two tables via the year column.   
   
   f.  used matplotlib to graph my data
+  
+You will need the following modules to run the program
+  a. sqlite3
+  b. csv
+  c. matplotlib.pyplot
+  d. panda 
   
   
 References:
